@@ -24,5 +24,3 @@ card number : 456654 PIN : 3333
 ![image](https://github.com/Kostadin98/ATMMachine1.0/assets/77744019/aaabd7a9-fdb8-412e-9e48-d3cb4671143f)
 
 ![image](https://github.com/Kostadin98/ATMMachine1.0/assets/77744019/d156a06c-2ecc-47e2-b9cd-e99e7ff2537f)
-
-![image](https://github.com/Kostadin98/ATMMachine1.0/assets/77744019/e7032ac3-b078-4a30-aa0e-ac55e8b06a9b)
